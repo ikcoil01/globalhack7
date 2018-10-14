@@ -14,6 +14,7 @@ App was built with the following:
 
 Electron is based from this: https://electronjs.org/docs/tutorial/quick-start
 bootstrap template is based of this https://bootstrapious.com/p/bootstrap-sidebar
+
 The calls to the mongodb database update the page on demand from database.js file
 
 
